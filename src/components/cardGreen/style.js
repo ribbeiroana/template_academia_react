@@ -12,10 +12,10 @@ justify-content: center;
 gap: 1rem;
 
 .card-green {
-  background-color: #9CFF1E;
+  background-color: #9cff1e;
+  background-image: linear-gradient(160deg, #9cff1e 0%, #ffffff 100%);
   padding: 12rem;
   border-radius: 1rem;
   margin: 1rem 5rem 1rem 0;
 }
-
 `

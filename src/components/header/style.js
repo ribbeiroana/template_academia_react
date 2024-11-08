@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const Header = styled.div `
 background-color: black;  
 display: flex;
-padding: 10px;
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -28,5 +27,5 @@ li {
 `
 
 export const Soon = styled.div `
-margin-left: 1rem;
+margin: 10px 1rem 0 0;
 `

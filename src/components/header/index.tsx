@@ -1,5 +1,7 @@
 import React from 'react';
 import { Header, HeadersItems, Soon } from './style';
+import logo from '../../assets/logo.png';
+
  const Headers = () => {
   return (
     <Header>
@@ -13,7 +15,7 @@ import { Header, HeadersItems, Soon } from './style';
       </HeadersItems>
 
       <Soon>
-        <img src="../../assets/logo.png" alt="logo" />
+        <img src={logo} alt="logo" />
       </Soon>
 
     </Header>
