@@ -12,13 +12,17 @@ ul, li {
 list-style-type: none;
 flex-direction: row;
 display: flex;
-gap: 20px;
 padding: 20px;
 color: #fff;
 
-/* .icon {
-  padding: 0px;
-} */
+.icon {
+background-color: #fff;
+color: black;
+width: 50px;
+height: 50px;
+padding: 10px;
+border-radius: 20px;
+}
 }
 
 li {
