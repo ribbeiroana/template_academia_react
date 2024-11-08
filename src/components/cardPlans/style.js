@@ -18,7 +18,7 @@ display: flex;
 .card-plans {
   width: 500px;
   background-color: #d9d9d9;
-  background-image: linear-gradient(160deg, #d9d9d9 0%, #ffffff 100%);
+  background-image: linear-gradient(0deg, #d9d9d9 0%, #ffffff 100%);
   padding: 1rem 1rem;
   border-radius: 5px;
   margin: 2rem 2rem;

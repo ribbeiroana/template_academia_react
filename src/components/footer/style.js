@@ -25,7 +25,7 @@ border-radius: 20px;
 }
 }
 
-li {
+li, .icon {
 &:hover {
   color: #9CFF1E;
 }
