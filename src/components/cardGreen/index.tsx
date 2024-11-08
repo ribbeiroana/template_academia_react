@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Cards} from './style';
 import Yoga from '../../assets/yoga.jpg';
 import crossfit from '../../assets/crossfit.jpg';
-import weigth from '../../assets/weigth.jpg';
+import zumba from '../../assets/zumba.jpg';
 
 
  const CardsGreen = () => {
@@ -20,8 +20,8 @@ import weigth from '../../assets/weigth.jpg';
         </div>
 
         <div className='card-green'>
-        <h3>Yoga</h3>
-        <img src={weigth} alt="yoga" />
+        <h3>Zumba</h3>
+        <img src={zumba} alt="yoga" />
         </div>
       </Cards>
 

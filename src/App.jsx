@@ -6,7 +6,6 @@ import SectionTime from './components/sectionTime'
 import SectionPhoto from './components/sectionPhoto'
 import Footer from './components/footer'
 import Scroll from './components/scroll'
-import SectionSearch from './components/sectionSearch'
 import Map from './components/map'
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
       <SectionPhoto />
       <SectionTime />
       <CardsGreen />
-      {/* <SectionSearch /> */}
       <CardsPlans />
       <Map />
       <Footer />

@@ -14,7 +14,7 @@ gap: 4rem;
 .card-green {
   background-color: #ffffff;
   background-image: linear-gradient(0deg, #ffffff 0%, #9cff1e 100%);
-  padding: 0 4rem 8rem 4rem;
+  padding: 0 3rem 8rem 3rem;
   border-radius: 1rem;
   margin: 1rem;
 
@@ -22,6 +22,7 @@ gap: 4rem;
     color: #ffffff;
     font-size: 30px;
   }
+  
   img {
     max-width: 350px;
     border-radius: 1rem;
